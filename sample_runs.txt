@@ -1,0 +1,31 @@
+Movement detected? yes/no: yes
+Heat detected? yes/no: yes
+Color: black
+Size (small/medium/large): medium
+Angular? yes/no: no
+Shape (spherical/irregular/flat): irregular
+Likely Animal
+
+Movement detected? yes/no: no
+Heat detected? yes/no: no
+Color: green
+Size (small/medium/large): small
+Angular? yes/no: no
+Shape (spherical/irregular/flat): irregular
+Likely Plant
+
+Movement detected? yes/no: no
+Heat detected? yes/no: no
+Color: gray
+Size (small/medium/large): large
+Angular? yes/no: yes
+Shape (spherical/irregular/flat): flat
+Likely Inanimate
+
+Movement detected? yes/no: no
+Heat detected? yes/no: yes
+Color: red
+Size (small/medium/large): small
+Angular? yes/no: yes
+Shape (spherical/irregular/flat): irregular
+Classification uncertain
